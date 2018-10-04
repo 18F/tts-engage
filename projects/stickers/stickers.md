@@ -130,7 +130,7 @@ Thanks!
 
 ## Files 
 
-* [18F Logo]()
+* [18F Logo](https://github.com/18F/tts-engage/raw/master/projects/stickers/18F-Logo-M.png)
 * [18F Logo - Rainbow]()
-* [TTS Logo]()
+* [TTS Logo](https://github.com/18F/tts-engage/raw/master/projects/stickers/tts-square.png)
 
