@@ -126,6 +126,7 @@ Thanks!
 * Stick with round numbers.  It's a lot easier for everyone if you do the math and round to the nearest dollar on these things.  
 * When people say that they just want 2-3 stickers, I just refer back to the original slack post and politely say that the smallest bundle is 50 and that if they just want a few, there'll be some in the DC office sticker bowl the next time they are around.  
 * We've usually gone with square with rounded edges, 2x2 stickers.  
+* There are lots of good companies that serve this need, but if you need any recommendations, ask Gray Brooks
 
 ## Files 
 
