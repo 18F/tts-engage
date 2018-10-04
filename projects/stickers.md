@@ -6,10 +6,10 @@ Having team stickers is good for morale, brand, and plugging small holes.  Such 
 ## Suggested Workflow
 
 1. Arrange for someone to fill each of these roles.  One person can do them all easily, or several people can divvy it up.  
-  a. Write and send comms to the full team.  
-  b. Track orders. 
-  c. Front the money for the buy.  
-  d. Distribute the stickers. 
+  a. Write and send comms to the full team.   
+  b. Track orders.  
+  c. Front the money for the buy.    
+  d. Distribute the stickers.   
 2. Post a message on slack and crosspost it via email to the team email listserve (templates below).
 3. Create a spreadsheet to track all of this.  Include columns for name, # of stickers, whether they have paid yet, and whether you have delivered them their stickers yet.  Trust me, you want to keep track of these things religiously or it'll get complicated.  
 4. A few days or one week later, send out a followup slack post to remind people.  Mention a deadline after which you're making the sticker order. 
