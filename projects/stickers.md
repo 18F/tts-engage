@@ -62,7 +62,7 @@ Hey team,
 A reminder - DM me if you want to buy any [Team Name] stickers.  I'm planning to do a buy at the end of the week.  
 
 [Link to original slack post]
-```
+````
 
 **Followup Email**
 
