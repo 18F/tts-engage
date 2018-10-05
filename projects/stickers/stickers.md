@@ -131,6 +131,6 @@ Thanks!
 ## Files 
 
 * [18F Logo](https://github.com/18F/tts-engage/raw/master/projects/stickers/18F-Logo-M.png)
-* [18F Logo - Rainbow]()
+* [18F Logo - Pride](https://github.com/18F/tts-engage/raw/master/projects/stickers/18F_Logo-Pride.png)
 * [TTS Logo](https://github.com/18F/tts-engage/raw/master/projects/stickers/tts-square.png)
 
