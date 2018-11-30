@@ -15,14 +15,15 @@ Having team stickers is good for morale, brand, and plugging small holes.  Such 
 4. A few days or one week later, send out a followup slack post to remind people.  Mention a deadline after which you're making the sticker order. 
 5. On the day before or day of the sticker buy, send one final update via email.  
 6.  Pick a website that makes stickers.  Look at their pricing increments (it'll be $0.XX/sticker if you order 500 stickers, $0.YY if you order 1000, etc.), look at how many orders you have so far, and make a judgment call on if it's worth it to order more so that you get to a cheaper threshold.  
-7. When the stickers arrive, cut them into bundles for easier distribution.  They usually come in bundles of 200 in which case you can then create 1/2 and 1/4 bundles pretty easily.  
-8. Distribute them to the buyers.  For remote folks in the same office, you can DM with them about sending the stickers to one person, but otherwise you'll need to reach out to the remote people to mail them all.  
-8.  Important!  When mailing stickers, be sure to use manilla envelopes and package them well, as plain letter envelopes go through scanners in transit that can catch on the stickers and literally squeeze them out the side of the envelope.  I once had someone report back that an empty envelope had arrived with the side riped open by the force of the stickers being pushed out of them.  
+7. Update the people who've put in orders on how much it'll cost.  
+8. When the stickers arrive, cut them into bundles for easier distribution.  They usually come in bundles of 200 in which case you can then create 1/2 and 1/4 bundles pretty easily.  
+9. Distribute them to the buyers.  For remote folks in the same office, you can DM with them about sending the stickers to one person, but otherwise you'll need to reach out to the remote people to mail them all.  
+10.  Important!  When mailing stickers, be sure to use manilla envelopes and package them well, as plain letter envelopes go through scanners in transit that can catch on the stickers and literally squeeze them out the side of the envelope.  I once had someone report back that an empty envelope had arrived with the side riped open by the force of the stickers being pushed out of them.  
 
 
 ## Templates 
 
-**Initial Slack Post**
+#### **Initial Slack Post**
 
 ````
 Hey team,  
@@ -36,7 +37,7 @@ Hey team,
 ````
 
 
-**Initial Email** 
+#### **Initial Email** 
 
 ````
 _crossposting from #18f_
@@ -56,7 +57,7 @@ Hey team,
 [Insert picture of stickers]
 ````
 
-**Followup Slack Post**
+#### **Followup Slack Post**
 
 ````
 A reminder - DM me if you want to buy any [Team Name] stickers.  I'm planning to do a buy at the end of the week.  
@@ -64,7 +65,7 @@ A reminder - DM me if you want to buy any [Team Name] stickers.  I'm planning to
 [Link to original slack post]
 ````
 
-**Followup Email**
+#### **Followup Email**
 
 (reply all to the original email)
 
@@ -76,7 +77,7 @@ If you didn't get an email from me earlier today, then I don't have you down for
 Gray 
 ````
 
-**Email To Those Who Put In Orders**
+#### **Email To Those Who Put In Orders**
 
 ````
 The folks on this thread are those who I have down for some sticker purchasing.
@@ -104,7 +105,7 @@ Please let me know any thoughts or questions.
 [Your name]
 ````
 
-**Followup Email When The Stickers Arrive, To Those That Ordered Them**
+#### **Followup Email When The Stickers Arrive, To Those That Ordered Them**
 
 ````
 Good morning.  
