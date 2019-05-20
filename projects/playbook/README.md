@@ -4,9 +4,11 @@
 ## Major Sections
 
 * Email Lists
+
 * Calendars
 
-
+Each team should have a shared calendar.  
+Make available for GSA.gov should be unchecked.  
 
 
 ## TTS Gap Analysis 
