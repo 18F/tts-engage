@@ -35,6 +35,20 @@ Make available for GSA.gov should be unchecked.
 
 
 
+
+
+
 #### Roles 
 
 * Diversity and Inclusion lead for each component
+
+
+
+
+
+#### Benefits of model
+
+* Slack open channels 
+  * Other staffers lose out on situational awareness
+  * Creates low grade moral hazard to not sharing information that is embarassing in view of the wider team.  
+  * Can't crosspost to other channels 
