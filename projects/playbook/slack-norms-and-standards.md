@@ -34,4 +34,7 @@ Ideas:
 For a new org:
 
 For a new team, for a new project - kick off instructions : 
+* these are the type channels that may come in the future
+* don't forget to create a user group
+* standup bot?, repos/twitter, 
 
