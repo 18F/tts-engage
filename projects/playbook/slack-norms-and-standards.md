@@ -1,5 +1,7 @@
 
 
+https://github.com/GSA/slack-norms
+
 Goals:  
 * make slack a more welcoming place
 * make slack easier for new hires (risks: overwhelming, or unwelcome, or inefficient)
@@ -38,3 +40,13 @@ For a new team, for a new project - kick off instructions :
 * don't forget to create a user group
 * standup bot?, repos/twitter, 
 
+
+Links to process: 
+
+https://handbook.tts.gsa.gov/getting-started/
+https://handbook.tts.gsa.gov/tools/slack/
+https://handbook.tts.gsa.gov/tools/slack/guidelines/
+https://handbook.tts.gsa.gov/tools/slack/rules/
+https://handbook.tts.gsa.gov/collaboration-tools/
+https://github.com/18F/tts-engage/tree/master/projects/playbook
+https://github.com/18F/tts-engage/blob/master/projects/playbook/slack-channels.md
