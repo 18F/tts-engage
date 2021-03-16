@@ -3,6 +3,8 @@
 
 ## Major Sections
 
+* Internal Communications Tools
+
 * Email Lists
 
 * Calendars
@@ -12,6 +14,17 @@ Make available for GSA.gov should be unchecked.
 
 
 ## TTS Gap Analysis 
+
+
+
+#### Internal Communications Tools
+
+* Monthly newsletter
+* Monthly townhall
+* Weekly coffee
+* Posting notes from leadership meetings 
+* Working in the open in slack 
+* Weekly ships, by leadership
 
 
 #### Email Lists
