@@ -46,7 +46,11 @@ Make available for GSA.gov should be unchecked.
 * Operations?
 
 
+#### Important Emails
 
+To TTS: 
+
+* Bi-Weekly Snapshot of Open Job Positions
 
 
 
@@ -65,3 +69,5 @@ Make available for GSA.gov should be unchecked.
   * Other staffers lose out on situational awareness
   * Creates low grade moral hazard to not sharing information that is embarassing in view of the wider team.  
   * Can't crosspost to other channels 
+
+
